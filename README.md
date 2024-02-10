@@ -1,4 +1,4 @@
-# Tech Hawaii
+# Algoritmos y Estructuras de Datos
 
 Un pequeño repositorio sobre algoritmos y estructura de datos con sintaxis en diferentes lenguajes, la idea es tener cada vez mas algoritmos en el lenguaje que quieras, puedes contribuir con el que desees agregar. 😉
 
